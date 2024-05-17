@@ -1,5 +1,5 @@
-# cluster-based-permutation
-R code for cluster-based permutation analysis for time series data, as in:
+# time-series-anomaly-detection
+Detect anomalies in time series data via permutation, as in:
 
 Reuter, T., Sullivan, M., & Lew-Williams, C. (2021). Look at that: Spatial deixis reveals experience- related changes in prediction. Language Acquisition. https://doi.org/10.1080/10489223.2021.1932905
 
